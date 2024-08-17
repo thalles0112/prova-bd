@@ -1,0 +1,4 @@
+.lista-vendas{
+    max-height: 562px;
+    overflow-y: scroll;
+}
